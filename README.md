@@ -1,5 +1,6 @@
 # vue-anime-yt
-Web application used to find information about any anime, made with Vue and using the API Jikan Unofficial MyAnimeList 
+Web application used to find information about any anime, made with Vue and using the API Jikan Unofficial MyAnimeList.
+https://animedatabase.netlify.app/
 
 ## Project setup
 ```
